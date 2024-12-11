@@ -1,1 +1,1 @@
-javascript.js 
+prompt("what is you name?");
